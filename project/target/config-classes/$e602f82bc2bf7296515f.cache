@@ -1,0 +1,6 @@
+lib
+root
+clean
+update
+scalacOptions
+helloTask
